@@ -14,7 +14,13 @@
   - Identificar áreas de risco na região de **Manhattan**
   - Determinar o nome das ruas da cidade que deverão receber reforço no patrulhamento policial
 
+# Conjunto de dados
 
+> [New York City Crimes](
+https://www.kaggle.com/datasets/adamschroeder/crimes-new-york-city?resource=download)
+
+ - Crimes reportados em todos os 5 bairros da cidade de NY (2014-2015)
+ - Subconjunto dos dados disponíveis em [NYPD Complaint Data Historic, 2006 - 2019](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
 
 # O que foi visto com esse exercicio?
 

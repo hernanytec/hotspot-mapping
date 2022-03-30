@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/adamschroeder/crimes-new-york-city?resource=down
  - Crimes reportados em todos os 5 bairros da cidade de NY (2014-2015)
  - Subconjunto dos dados disponíveis em [NYPD Complaint Data Historic, 2006 - 2019](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
 
-# O que foi visto com esse exercicio?
+# O que foi visto com esse exercício?
 
   - [x] Operações com dados geoespaciais usando GeoPandas
   - [x] Tipos de Sistemas de projeção de coordenadas 

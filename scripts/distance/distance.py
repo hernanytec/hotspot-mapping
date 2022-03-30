@@ -1,16 +1,12 @@
 from  ..tessellation import *
 
-import numpy as np
 import pandas as pd
-
 import geopandas as gpd
+import numpy as np
 from shapely.geometry import Point
-import osmnx as ox
-
 from scipy.spatial import ckdtree
 from sklearn.neighbors import BallTree
 from sklearn.metrics import pairwise_distances
-
 
 class Distance():
     

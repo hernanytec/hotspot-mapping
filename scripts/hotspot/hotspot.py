@@ -1,9 +1,9 @@
-from ..distance import Distance
-from ..tessellation import GridTessellationTiler
-
 import geopandas as gpd
 import numpy as np
 from shapely.geometry import Point
+
+from ..distance import Distance
+from ..tessellation import GridTessellationTiler
 
 class Hotspot():
     

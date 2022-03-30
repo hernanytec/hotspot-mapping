@@ -6,8 +6,6 @@ from ..distance import Distance
 import numpy as np
 import geopandas as gpd
 
-from sklearn.metrics import pairwise_distances
-
 from shapely.geometry import Point
 
 
